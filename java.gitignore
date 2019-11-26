@@ -18,3 +18,9 @@
 *.zip
 *.tar.gz
 .rar
+
+
+#IGNORE MAVEN
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
